@@ -16,7 +16,7 @@ public class Program {
            index++;
 
         }
-        wynik=liczby[0]+liczby[1]+liczby[2]+liczby[3]+liczby[4];
+       // wynik=liczby[0]+liczby[1]+liczby[2]+liczby[3]+liczby[4];
         System.out.println("Suma podanych przeci ciebie liczb jest rowna "+wynik);
 
 
